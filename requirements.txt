@@ -22,5 +22,6 @@ soxr==0.3.7
 librosa==0.10.1
 gradio==4.14.0
 torchmetrics
+pandas=2.1.4
 encodec
 protobuf
