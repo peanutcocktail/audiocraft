@@ -16,6 +16,7 @@ huggingface_hub
 tqdm
 #transformers>=4.31.0  # need Encodec there.
 transformers==4.36.2
+pydantic==2.5.3
 #xformers
 demucs
 scipy==1.14.1
