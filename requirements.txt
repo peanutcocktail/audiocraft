@@ -7,6 +7,7 @@ hydra_colorlog
 julius
 num2words
 numpy==1.25.2
+numba==0.58.1
 sentencepiece
 spacy>=3.6.1
 #torch==2.1.0
@@ -25,5 +26,5 @@ torchmetrics==1.3.0
 pandas==2.1.4
 matplotlib==3.8.2
 contourpy==1.2.0
-encodec
+encodec==0.1.1
 protobuf
