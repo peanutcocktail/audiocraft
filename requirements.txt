@@ -31,3 +31,5 @@ matplotlib==3.8.2
 contourpy==1.2.0
 encodec==0.1.1
 protobuf
+uvicorn==0.25.0
+starlette==0.35.1
